@@ -2,7 +2,17 @@
   "name": "AdBlocker — Privacy ensured",
   "version": "1.0.0",
   "description": "To protect your privacy and block ads and pop-ups on your preferred websites like Twitch, Facebook, Google, Onlyfans, and Youtube.",
-  "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
+  "permissions": [
+    "contextMenus",
+    "privacy",
+    "storage",
+    "tabs",
+    "unlimitedStorage",
+    "webNavigation",
+    "webRequest",
+    "webRequestBlocking",
+    "<all_urls>"
+  ],
   "background": {
     "scripts": ["background.js"]
   },
@@ -12,5 +22,7 @@
     "48": "icons/icon-48.png",
     "128": "icons/icon-128.png"
   },
-  "manifest_version": 2
+  "incognito": "split",
+  "manifest_version": 2,
+  "minimum_chrome_version": "73.0"
 }
