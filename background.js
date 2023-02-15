@@ -9,6 +9,7 @@ const defaultFilters = [
   "*://*.quantserve.com/*",
   "*://*.scorecardresearch.com/*",
   "*://*.zedo.com/*",
+  "*://*.googleadservices.com/*",
   "*://*.doubleclick.net/*",
   "*://*.googlesyndication.com/*",
   "*://*.googletagservices.com/*",
