@@ -1,4 +1,4 @@
-To protect your privacy and block ads and pop-ups on your preferred websites like Twitch, Facebook, Google, Onlyfans, and Youtube, consider using AdBlocker. Here are some of its features:
+To protect your privacy and block ads and pop-ups on your preferred websites
 
 <br/>
 
